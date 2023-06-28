@@ -1,0 +1,11 @@
+#container {
+    text-align: center;
+}
+
+#gameBoard {
+    border: 3px solid, black;
+}
+
+#score {
+    font-size: 100px
+}
